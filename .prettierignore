@@ -1,0 +1,5 @@
+public/
+.next
+.dist
+dist
+node_modules
